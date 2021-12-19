@@ -570,7 +570,8 @@ input[type='checkbox'] {
 
 .navbar-custom .navbar-toggler {
 	border: none;
-	color: #fff;
+	color: #153e52;
+	background-color: #14bf98;
 	font-size: 2rem;
 }
 
@@ -1243,7 +1244,7 @@ input[type='checkbox'] {
 		width: 1.625rem;
 		height: 1.625rem;
 		position: absolute;
-		background: url('../images/Instagramlogo.png') center center no-repeat;
+		background: url('../images/hexagon-green.svg') center center no-repeat;
 		background-size: 1.625rem 1.625rem;
 		transition: all 0.2s ease;
 	}
